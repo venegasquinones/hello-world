@@ -13,4 +13,4 @@ I think that a open source platform allows you to freely:
 2. modify, and
 3. redistribute any tools/packages. 
 
-###*And my only hobby is eating spicy foods :S*###
+### *And my only hobby is eating spicy foods* :S ###
